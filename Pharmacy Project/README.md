@@ -73,7 +73,7 @@ This dashboard helps a pharmacy to:
 ## 📷 Dashboard Preview
 
 ### Image 4  
-![Dashboard](./Image4.png)
+![Dashboard](./image4.png)
 
 ---
 
