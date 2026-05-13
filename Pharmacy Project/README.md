@@ -114,7 +114,7 @@ This analysis provided the pharmacy with:
 ## 📊 Dashboard Preview
 
 ### 🔹 Pharmacy Dashboard
-![Pharmacy Dashboard](Image5.png)
+![Pharmacy Dashboard](Img4.png)
 
 ---
 
